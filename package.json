@@ -1,0 +1,14 @@
+{
+  "name": "js-async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hbsnow-sandbox/js-async-await.git",
+  "author": "hbsnow <yuki.4uing@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier-standard 'src/**/*.mjs'"
+  },
+  "devDependencies": {
+    "prettier-standard": "^9.1.1"
+  }
+}
